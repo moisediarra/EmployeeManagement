@@ -1,9 +1,9 @@
 # EmployeeManagement
 
-# --- Backend : .NET 9 (C# API)
+# Backend : .NET 9 (C# API)
 
-# --- Frontend : Flutter
+# Frontend : Flutter
 
-# --- Architecture : MVC + Repository + Service + DTOs + AutoMapper
+# Architecture : MVC + Repository + Service + DTOs + AutoMapper
 
-# --- Fonctionnalités : Login, Signup, Gestion des employés (CRUD complet)
+# Fonctionnalités : Login, Signup, Gestion des employés (CRUD complet)
